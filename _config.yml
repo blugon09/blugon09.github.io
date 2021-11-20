@@ -10,9 +10,9 @@ title: 블루곤의 개발자되기 프로젝트
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/light_bauhaus_logo.png
+lightavatar: /assets/images/bauhaus_logo.png
 # Avatar for dark mode site
-darkavatar: /assets/images/dark_bauhaus_logo.png
+darkavatar: /assets/images/bauhaus_logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
 tagline: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
@@ -42,13 +42,10 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: mkie0125@gmail.com
-  facebook:
-  github: andrewhwanpark/brutalist-blog
-  instagram: andrewhwanpark
-  linkedin: andrewhwanpark
-  rss: # just type anything here for a working RSS icon
-  twitter: andrewhwanpark
+  email: blugon0921@blugon.kro.kr
+  facebook: 100033258708836
+  github: blugon09/brutalist-blog
+  instagram: blugon_0921
 
 plugins:
   - jekyll-seo-tag
