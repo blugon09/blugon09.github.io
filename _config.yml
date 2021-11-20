@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the navbar)
-name: 블루곤의 개발자되기 프로젝트
+name: 블루곤의 평범한 블로그
 
 # Your site's title (e.g., Ben's Awesome Site, The GitHub Blog, etc.), used as part of the title tag like Home | Ben's Awesome Site.
-title: 블루곤의 개발자되기 프로젝트
+title: 블루곤의 평범한 블로그
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
