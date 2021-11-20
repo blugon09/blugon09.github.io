@@ -44,7 +44,7 @@ permalink: /:year/:month/:day/:title/
 footer-links:
   email: blugon0921@blugon.kro.kr
   facebook: 100033258708836
-  github: blugon09/brutalist-blog
+  github: blugon09
   instagram: blugon_0921
 
 plugins:
