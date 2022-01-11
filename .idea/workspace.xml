@@ -5,22 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ed647ae-34e0-417d-882e-d0e66e66c773" name="변경" comment="✨ MainPage">
-      <change afterPath="$PROJECT_DIR$/.idea/blugon09.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/minecraft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/twitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/youtubeBlack.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,6 +42,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="21CcCFF24teAU4e75g9EBxVqxsC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,22 +59,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CodingFile\Web\blugon09.github.io\images" />
+      <recent name="C:\CodingFile\Web\blugon09.github.io\assets" />
       <recent name="C:\CodingFile\Web\blugon09.github.io\assets\images\sample_portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CodingFile\Web\blugon09.github.io\images" />
+      <recent name="C:\CodingFile\Web\blugon09.github.io\assets" />
+      <recent name="C:\CodingFile\Web\blugon09.github.io\css" />
       <recent name="C:\CodingFile\Web\blugon09.github.io\assets\css" />
       <recent name="C:\CodingFile\Web\blugon09.github.io\assets\images\post" />
-      <recent name="C:\CodingFile\Web\blugon09.github.io\assets\images" />
-      <recent name="C:\CodingFile\Web\blugon09.github.io\assets\images\sample_portfolio" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +97,16 @@
       <workItem from="1637463552816" duration="799000" />
       <workItem from="1637486284033" duration="52000" />
       <workItem from="1637486343144" duration="147000" />
-      <workItem from="1638743652431" duration="76000" />
+      <workItem from="1638743652431" duration="758000" />
+      <workItem from="1638857657520" duration="595000" />
+      <workItem from="1638885995848" duration="595000" />
+      <workItem from="1638947017975" duration="596000" />
+      <workItem from="1639038882638" duration="612000" />
+      <workItem from="1641731650460" duration="1299000" />
+      <workItem from="1641732981773" duration="2838000" />
+      <workItem from="1641753373437" duration="597000" />
+      <workItem from="1641880566343" duration="11452000" />
+      <workItem from="1641902605945" duration="3757000" />
     </task>
     <task id="LOCAL-00001" summary="Blog">
       <created>1637449725087</created>
@@ -288,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637486363859</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="✨ MainPage">
+      <created>1638743735128</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1638743735128</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
