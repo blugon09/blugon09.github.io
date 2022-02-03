@@ -44,109 +44,6 @@ div.top .icon {
     margin: 5rem;
 }
 
-div.margin .title {
-    width: 19.5rem;
-    font-size: 2rem;
-    color: white;
-    text-align: center;
-    background-color: #5E50BA;
-    border: 0.5em solid #5E50BA;
-    border-left: 0;
-    border-right: 0;
-    top: 0;
-}
-div.margin .icon {
-    position: absolute;
-    top: 7rem;
-    width: 19rem;
-    border: 0.25em solid #5E50BA;
-    border-bottom: 0;
-}
-div.margin .birth {
-    top: 25.25rem;
-    width: 6rem;
-    height: 1rem;
-    color: white;
-    font-size: 1rem;
-    text-align: center;
-    border: 0.5em solid #5E50BA;
-    background-color: #5E50BA;
-}
-div.margin .birthValue {
-    top: 25.25rem;
-    left: 12em;
-    width: 12rem;
-    height: 2rem;
-    font-size: 1rem;
-    text-align: center;
-    line-height: 150%;
-    border: 0.25em solid #cccccc;
-    border-bottom: 0;
-}
-div.margin .color {
-    top: 27.25rem;
-    width: 6rem;
-    height: 1rem;
-    color: white;
-    font-size: 1rem;
-    text-align: center;
-    border: 0.5em solid #5E50BA;
-    background-color: #5E50BA;
-}
-div.margin .colorValue {
-    top: 27.25rem;
-    left: 12em;
-    width: 12rem;
-    height: 2rem;
-    font-size: 1rem;
-    text-align: center;
-    line-height: 150%;
-    border: 0.25em solid #cccccc;
-    border-bottom: 0;
-}
-div.margin .mcnickname {
-    top: 29.25rem;
-    width: 6rem;
-    height: 2rem;
-    color: white;
-    font-size: 1rem;
-    text-align: center;
-    border: 0.5em solid #5E50BA;
-    background-color: #5E50BA;
-    line-height: 70%;
-}
-div.margin .mcnicknameValue {
-    top: 29.25rem;
-    left: 12em;
-    width: 12rem;
-    height: 2.5rem;
-    font-size: 1rem;
-    text-align: center;
-    line-height: 200%;
-    border: 0.25em solid #cccccc;
-    border-bottom: 0;
-}
-div.margin .discordname {
-    top: 32rem;
-    width: 6rem;
-    height: 2rem;
-    color: white;
-    font-size: 1rem;
-    text-align: center;
-    border: 0.5em solid #5E50BA;
-    background-color: #5E50BA;
-    line-height: 70%;
-}
-div.margin .discordnameValue {
-    top: 32rem;
-    left: 12em;
-    width: 12rem;
-    height: 2.5rem;
-    font-size: 1rem;
-    text-align: center;
-    line-height: 200%;
-    border: 0.25em solid #cccccc;
-}
 
 
 
@@ -156,11 +53,25 @@ div.margin .discordnameValue {
     position: relative;
     width: 100%;
     height: 6rem;
-    top: 41.05rem;
+    top: 0;
 }
 div.footer .topLine {
     background-color: darkgray;
     height: 0.25rem;
+}
+
+
+a.email .image {
+    position: relative;
+    width: 100%;
+}
+div.footer .email {
+    position: absolute;
+    width: 2.5%;
+    height: 50%;
+    top: 0.5rem;
+    left: 41.5%;
+    cursor: pointer;
 }
 
 a.github .image {
@@ -212,5 +123,18 @@ div.footer .twitch {
     height: 50%;
     top: 0.5rem;
     left: 53.5%;
+    cursor: pointer;
+}
+
+a.discord .image {
+    position: relative;
+    width: 100%;
+}
+div.footer .discord {
+    position: absolute;
+    width: 2.5%;
+    height: 50%;
+    top: 0.5rem;
+    left: 56.5%;
     cursor: pointer;
 }
