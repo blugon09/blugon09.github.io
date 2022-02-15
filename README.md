@@ -1,3 +1,3 @@
 # 블루곤
 
-https://blugon.me
+https://blugon.kr
