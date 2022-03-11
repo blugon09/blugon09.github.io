@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ed647ae-34e0-417d-882e-d0e66e66c773" name="변경" comment="✨ source">
-      <change afterPath="$PROJECT_DIR$/font/NotoSansKR-Medium.otf" afterDir="false" />
+    <list default="true" id="2ed647ae-34e0-417d-882e-d0e66e66c773" name="변경" comment="✨ Noto Sans KR Medium">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +102,7 @@
       <workItem from="1643996725506" duration="27000" />
       <workItem from="1644413951692" duration="829000" />
       <workItem from="1644463458900" duration="18000" />
-      <workItem from="1646985149411" duration="3551000" />
+      <workItem from="1646985149411" duration="3702000" />
     </task>
     <task id="LOCAL-00001" summary="Blog">
       <created>1637449725087</created>
@@ -358,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644413985137</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="✨ Noto Sans KR Medium">
+      <created>1646992028756</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1646992028756</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,6 +387,7 @@
     <MESSAGE value="✨ Bug Fix and Renewal" />
     <MESSAGE value="✨ Image change" />
     <MESSAGE value="✨ source" />
-    <option name="LAST_COMMIT_MESSAGE" value="✨ source" />
+    <MESSAGE value="✨ Noto Sans KR Medium" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ Noto Sans KR Medium" />
   </component>
 </project>
