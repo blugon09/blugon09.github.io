@@ -1,10 +1,10 @@
 body {
     margin: 0;
+    font-family: "Noto Sans KR Medium", sans-serif;
     padding: 0;
 }
 p {
     position: absolute;
-    font-family: "Noto Sans KR Medium", serif;
     line-height: 50%;
 }
 
