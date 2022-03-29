@@ -1,75 +1,60 @@
 <!DOCTYPE html>
 <html lang="kr">
-    <head>
-        <meta name="title" content="블루곤" />
-        <meta name="subject" content="" />
-        <meta name="author" content="Blugon" />
-        <meta property="og:url" content="https://blugon0921.kr/" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="블루곤" />
-        <meta property="og:image" content="images/favicon.png" />
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/7bb94d86ca.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
 
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-        <link rel="icon" href="images/favicon.png" />
+    <meta name="title" content="블루곤" />
+    <meta property="og:title" content="블루곤" />
 
-        <title>블루곤</title>
-        <meta charset="utf-8"/>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="icon" href="assets/images/favicon.png" />
 
-        <link rel="stylesheet" href="assets/css/style.css">
-    </head>
-    <body>
-        <div class="top">
-            <div class="footerLine"></div>
-            <a class="icon" href="index.html"><img class="image" src="images/favicon.png" alt="icon"></a>
+    <title>블루곤</title>
+
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/javascript/script.js"></script>
+</head>
+<body>
+    <div id="background">
+        <img src="assets/images/background.png" id="backgroundImg" alt="background">
+        <div style="text-align: center;">
+            <a href="https://blugon.kr" id="mainIcon">
+                <img src="assets/images/favicon.png" id="mainIconImg" alt="mainIconImg">
+            </a>
+        </div>
+        <div class="buttons">
+            <button class="button github" onclick="window.open('https://github.com/blugon09')"><i class="fa-brands fa-github"></i> Github</button>
+            <br>
+            <button class="button youtube" onclick="window.open('https://www.youtube.com/channel/UCKZJ26S0CMsFUmb32bwfL_g')"><i class="fa-brands fa-youtube"></i> Youtube</button>
+            <br>
+            <button class="button discord" onclick="window.open('https://discord.com/users/602076166999769099')" onmouseover="return discordHoverEvent()" onmouseleave="discordLeaveEvent()"><i class="fa-brands fa-discord"></i> Discord</button>
+            <br>
+            <button class="button facebook" onclick="window.open('https://www.facebook.com/profile.php?id=100033258708836')"><i class="fa-brands fa-facebook"></i> Facebook</button>
+            <br>
+            <button class="button instagram" onclick="window.open('https://www.instagram.com/blugon_0921')"><i class="fa-brands fa-instagram"></i> Instagram</button>
+            <br>
+            <button class="button email" onclick="window.open('mailto:blugon0921@gmail.com')"><i class="fa-solid fa-envelope"></i> Email</button>
         </div>
 
-        <div class="center">
-            <div class="margin">
-                <h1>👋 Hi There</h1>
+<!--        블루곤 캐릭터 컨셉-->
+<!--        머리색 : 5059B7-->
+<!--        눈색 : 234D9B-->
+<!--        겉옷 안에 반팔 티셔츠 색 : 하얀색-->
+<!--        겉옷색 : 7DAACE-->
+<!--        바지색 : 2C4975-->
+<!--        신발색 : 432928-->
 
-                <h2>Used Language</h2>
-                <img src="https://img.shields.io/badge/Java--FF7700?logo=java&logoColor=FFFFFF" alt="">
-                <img src="https://img.shields.io/badge/Kotlin--186FCC?logo=Kotlin&logoColor=FFFFFF" alt="">
-                <img src="https://img.shields.io/badge/Html--E34F26?logo=HTML5&logoColor=FFFFFF" alt="">
-                <img src="https://img.shields.io/badge/Css--blue?logo=CSS3&logoColor=FFFFFF" alt="">
-                <img src="https://img.shields.io/badge/Python--2F4BA8?logo=Python&logoColor=FFFFFF" alt="">
+<!--        머리에 꽃 : 수레국화-->
+<!--        꽃 중앙색 : 466AEB-->
+<!--        꽃잎 색 : 6281E8-->
 
-                <h2>My Stats</h2>
-                <img src="https://github-readme-stats.vercel.app/api?username=blugon09&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="">
-                <br>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blugon09&layout=compact&hide=css,xml&theme=tokyonight" alt="">
-
-                <h2>My Info</h2>
-
-                <p>BirthDay</p><br>
-                <p>September 21, 2007</p>
-                <br><br>
-                <p>PersonalColor</p><br>
-                <p>#5059B7(Blue)</p>
-                <br><br>
-                <p>Minecraft Nickname</p><br>
-                <p>Blugon0921</p>
-                <br><br>
-                <p>Discord Tag</p><br>
-                <p>블루곤#0001</p>
-                <br><br>
-
-                <h2>Etc</h2>
-
-                <p>Profile image</p><br><br>
-                <a href="https://picrew.me/image_maker/494736" target="_blank">https://picrew.me/image_maker/494736</a>
-
-            </div>
-        </div>
-
-        <div class="footer">
-            <div class="topLine"></div>
-            <a class="github" href="https://github.com/blugon09/" target="_blank"><img class="image" src="images/github.png" alt="github"></a>
-            <a class="resourcepack" href="https://blugon.kr/improvementpack/" target="_blank"><img class="image" src="images/minecraft.png" alt="resourcepack"></a>
-            <a class="youtube" href="https://youtube.com/channel/UCKZJ26S0CMsFUmb32bwfL_g/" target="_blank"><img class="image" src="images/youtube.png" alt="youtube"></a>
-            <a class="twitch" href="https://twitch.tv/blugon0921/" target="_blank"><img class="image" src="images/twitch.png" alt="twitch"></a>
-            <a class="discord" href="https://discord.com/users/602076166999769099" target="_blank"><img class="image" src="images/discord.png" alt="twitch"></a>
-            <a class="email" href="mailto:blugon0921@gmail.com" target="_blank"><img class="image" src="images/email.png" alt="twitch"></a>
-        </div>
-    </body>
+<!--        키 : 160cm-->
+<!--        몸무게 : 45kg-->
+<!--        <p style="text-align: center">여긴 아무것도 없다 멍청아</p>-->
+    </div>
+</body>
 </html>

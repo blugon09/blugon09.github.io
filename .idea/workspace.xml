@@ -4,10 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ed647ae-34e0-417d-882e-d0e66e66c773" name="변경" comment="✨ Noto Sans KR Medium">
+    <list default="true" id="2ed647ae-34e0-417d-882e-d0e66e66c773" name="변경" comment="✨ Icon Image">
+      <change afterPath="$PROJECT_DIR$/assets/css/old.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/javascript/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/blugon09.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blugon09.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/NotoSansKR-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/discord.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/discord.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/github.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/minecraft.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/minecraft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/twitch.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/twitch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/youtube.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+    <list id="4a0a665e-162f-4cad-a90f-dc182b06cc4f" name="KOSA 님이 변경한 내용" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,14 +34,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Sass File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -63,9 +87,9 @@
       <recent name="C:\CodingFile\Web\blugon09.github.io\assets\images\sample_portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CodingFile\Web\blugon09.github.io\assets" />
       <recent name="C:\CodingFile\Web\blugon09.github.io\font" />
       <recent name="C:\CodingFile\Web\blugon09.github.io\images" />
-      <recent name="C:\CodingFile\Web\blugon09.github.io\assets" />
       <recent name="C:\CodingFile\Web\blugon09.github.io\css" />
       <recent name="C:\CodingFile\Web\blugon09.github.io\assets\css" />
     </key>
@@ -102,7 +126,13 @@
       <workItem from="1643996725506" duration="27000" />
       <workItem from="1644413951692" duration="829000" />
       <workItem from="1644463458900" duration="18000" />
-      <workItem from="1646985149411" duration="3702000" />
+      <workItem from="1646985149411" duration="6034000" />
+      <workItem from="1647101981548" duration="655000" />
+      <workItem from="1647106980911" duration="610000" />
+      <workItem from="1647150372055" duration="1206000" />
+      <workItem from="1648444007407" duration="18548000" />
+      <workItem from="1648569590553" duration="100000" />
+      <workItem from="1648570568195" duration="2442000" />
     </task>
     <task id="LOCAL-00001" summary="Blog">
       <created>1637449725087</created>
@@ -363,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646992028756</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="✨ Icon Image">
+      <created>1646992073631</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1646992073631</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,6 +425,7 @@
     <MESSAGE value="✨ Image change" />
     <MESSAGE value="✨ source" />
     <MESSAGE value="✨ Noto Sans KR Medium" />
-    <option name="LAST_COMMIT_MESSAGE" value="✨ Noto Sans KR Medium" />
+    <MESSAGE value="✨ Icon Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ Icon Image" />
   </component>
 </project>
